@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import unarynd from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unarynd@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/array-base-unarynd/tags). For example,
+
+```javascript
 import unarynd from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unarynd@v0.2.3-deno/mod.js';
 ```
 
@@ -97,7 +102,7 @@ var discreteUniform = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-bas
 import filledndBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-fillednd-by@deno/mod.js';
 import zerosnd from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zerosnd@deno/mod.js';
 import abs from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-abs@deno/mod.js';
-import unarynd from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unarynd@v0.2.3-deno/mod.js';
+import unarynd from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unarynd@deno/mod.js';
 
 var shape = [ 3, 3 ];
 
