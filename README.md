@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import unarynd from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unarynd@deno/mod.js';
+import unarynd from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unarynd@v0.2.3-deno/mod.js';
 ```
 
 #### unarynd( arrays, shape, fcn )
@@ -97,7 +97,7 @@ var discreteUniform = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-bas
 import filledndBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-fillednd-by@deno/mod.js';
 import zerosnd from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zerosnd@deno/mod.js';
 import abs from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-abs@deno/mod.js';
-import unarynd from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unarynd@deno/mod.js';
+import unarynd from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-unarynd@v0.2.3-deno/mod.js';
 
 var shape = [ 3, 3 ];
 
